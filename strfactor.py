@@ -18,6 +18,7 @@ Input: filename sim_box_size_x sim_box_size_y grid_size
 Claudio B. Caporusso 
 Physics PhD Student - XXXVI ciclo
 Bari University
+claudio.caporusso@ba.infn.it
 """
 
 try:
