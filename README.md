@@ -8,11 +8,13 @@ Moreover, if the system is a square box, compute the spherical average of the st
 
 To install the program, you just need to clone this repository on your local PC. You need to have python3 installed in the system with numpy and matplotlib package installed.  
 You can run the program then as   
-`python3 strfactor.py dataset.dat`
+`python3 strfactor.py dataset.dat`   
 where dataset is a file with the xy positions of the particles in the format   
 ```
 x1 y1  
-x2 y2`  
-...
-```
+x2 y2
+x3 y3
+... 
+```   
+A test dataset is given in the file `xy.dat`
 
