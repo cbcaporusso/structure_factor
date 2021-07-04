@@ -15,5 +15,5 @@ x3 y3
 ... 
 ```
 Lx and Ly are the box dimensions and grid is the grid step size to compute the local density matrix. 
-A test dataset is given in the file `xy.dat`, with a square box simulation of L=1284. The command `python3 strfactor.py xy.dat 1284 1284 0.3` should give an example of the expected output.   
+A test dataset is given in the file `xy.dat`, with a square box simulation of L=1284. The command `python3 strfactor.py xy.dat 1284 1284 10` should give an example of the expected output.   
 
